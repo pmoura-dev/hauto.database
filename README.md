@@ -1,2 +1,2 @@
 # hauto.database
-HAUTO database repository.
+HAUTO database server repository.
